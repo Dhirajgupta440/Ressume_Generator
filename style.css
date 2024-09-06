@@ -1,0 +1,101 @@
+/* Base styles for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Container for the resume generator form */
+.container {
+    width: 60%;
+    background: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin-top: 50%;
+}
+
+/* Heading styles */
+h1, h3 {
+    text-align: center;
+    color: #333;
+}
+
+/* Styles for the form */
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Ensure all labels are displayed and aligned properly */
+label {
+    display: block;
+    margin-top: 15px; /* Adjust margin to ensure labels are not overlapping */
+    margin-bottom: 5px;
+    color: #333;
+    font-weight: bold;
+    line-height: 1.5; /* Improve readability */
+}
+
+/* Styles for input fields and textareas */
+input, textarea {
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+/* Styles for buttons */
+button {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+/* Resume display container */
+.resume-display {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fafafa;
+}
+
+/* Education entry styles */
+.education-entry {
+    margin-bottom: 10px;
+}
+
+.education-entry label {
+    font-weight: bold;
+}
+
+.education-entry input, .education-entry textarea {
+    margin-top: 5px;
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Skill entry styles */
+#skills-section input {
+    margin-top: 10px;
+}
