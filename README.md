@@ -22,16 +22,17 @@ This is a web-based Resume Generator that helps users create professional resume
 3. Fill in your personal, educational, and work experience details.  
 4. Click on **Generate Resume** to see the final version.  
 5. You can then **print or save** the generated resume.
-
-## 📷 Screenshots
-
-*(Add screenshots of the form page and the generated resume output here for better illustration.)*
+6. 
 
 ## 📌 Future Enhancements
 
 - Add export to PDF functionality  
 - Support for different resume templates  
 - Backend integration to save and retrieve resumes  
+
+## 🔗 Check Out the Deployed Model
+
+To try out the model, [click here](https://dhirajgupta440.github.io/Ressume_Generator/).
 
 ## 📬 Contact
 
@@ -40,3 +41,4 @@ If you have any questions or suggestions, feel free to reach out via [GitHub Iss
 ---
 
 ⭐ Star this repo if you found it useful!
+
