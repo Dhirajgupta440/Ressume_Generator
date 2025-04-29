@@ -13,7 +13,8 @@ This is a web-based Resume Generator that helps users create professional resume
 - User-friendly interface for entering resume details  
 - Dynamic sections for adding multiple education, experience, and skills  
 - Generates a formatted resume layout based on user input  
-- Option to download the resume as a printable format  
+- Option to download the resume as a printable format
+  
 
 ## 📂 How to Use
 
